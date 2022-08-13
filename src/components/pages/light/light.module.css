@@ -1,0 +1,32 @@
+.img {
+    width: 300px;
+    height: 200px;
+}
+.container {
+    margin-top: 40px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    justify-content: space-around;
+    text-align: center;
+    align-items: center; 
+}
+.card {
+    margin-bottom: 60px;
+}
+
+.btn {
+    border: 1px solid #4994d2;
+    border-radius: 20px;
+    margin-top: 20px;
+    cursor: pointer;
+    padding: 10px;
+}
+.btn:hover{
+    transition: .5s all;
+    background: #4994d2;
+    color: white;
+}
+
+.txt {
+    margin: 10px;
+}

@@ -1,0 +1,8 @@
+.wraps {
+    display: flex;
+    justify-content: center;
+}
+
+.inp {
+    margin-bottom: 30px;
+}

@@ -1,0 +1,25 @@
+.Busket {
+    grid-area: b; 
+}
+.img {
+   width: 150px;
+
+}
+.counter {
+    position: absolute;
+}
+
+.wraps {
+   
+}
+
+.clothers {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 70px;
+}
+.name {
+    margin: 40px 0px;
+}
+
